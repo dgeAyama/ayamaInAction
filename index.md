@@ -21,6 +21,19 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Super Bowl Bar Chart</title>
+    <script src="https://cdn.anychart.com/releases/8.0.0/js/anychart-base.min.js"></script>
+  </head>
+  <body>
+    <div id="container" style="width: 100%; height: 100%"></div>                                   
+    <script> <!--chart code -->  </script>
+</body>
+</html>
+
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
