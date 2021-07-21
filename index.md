@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/dgeAyama/ayamaInAction/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<html>
+  <head>
+    <title>Super Bowl Bar Chart</title>
+    <script src="https://cdn.anychart.com/releases/8.0.0/js/anychart-base.min.js"></script>
+  </head>
+  <body>
+    <div id="container" style="width: 100%; height: 100%"></div>                                   
+    <script> <!--chart code -->  </script>
+</body>
+</html>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -21,16 +33,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-<html>
-  <head>
-    <title>Super Bowl Bar Chart</title>
-    <script src="https://cdn.anychart.com/releases/8.0.0/js/anychart-base.min.js"></script>
-  </head>
-  <body>
-    <div id="container" style="width: 100%; height: 100%"></div>                                   
-    <script> <!--chart code -->  </script>
-</body>
-</html>
 
 **Bold** and _Italic_ and `Code` text
 
