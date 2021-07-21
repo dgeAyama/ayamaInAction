@@ -21,7 +21,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-<!DOCTYPE html>
 <html>
   <head>
     <title>Super Bowl Bar Chart</title>
@@ -32,7 +31,6 @@ Syntax highlighted code block
     <script> <!--chart code -->  </script>
 </body>
 </html>
-
 
 **Bold** and _Italic_ and `Code` text
 
